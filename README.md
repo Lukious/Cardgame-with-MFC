@@ -1,2 +1,2 @@
-# Snakegame-with-MFC
-MFC Snake game
+# Cardgame-with-MFC
+MFC Card Flip APP
